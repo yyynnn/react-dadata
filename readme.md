@@ -1,4 +1,6 @@
 # React Dadata
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/vitalybaev/react-dadata.svg)](https://greenkeeper.io/)
 React компонент для подсказок адресов с помощью сервиса DaData.ru
 
 ## Пример
