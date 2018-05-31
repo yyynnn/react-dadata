@@ -9,7 +9,7 @@ npm install react-dadata
 ```
 или
 ```
-yarn react-dadata
+yarn add react-dadata
 ```
 
 ### Пример
